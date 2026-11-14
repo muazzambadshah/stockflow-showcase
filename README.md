@@ -2,7 +2,7 @@
 
 > **Showcase repository.** The source code is private; screenshots and a feature overview are below. Code walkthroughs available on request.
 
-**Live demo:** _coming soon_ · **Author:** Muazzam Khan
+**Live demo:** https://muazzam-stockflow.vercel.app (`admin@stockflow.test` / `Demo@12345`) · **Author:** Muazzam Khan
 
 ![Dashboard](screenshots/01-dashboard.png)
 
